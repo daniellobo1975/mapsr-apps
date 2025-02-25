@@ -1,0 +1,39 @@
+
+
+library(jsonlite)
+
+# library
+library(jsonlite)
+
+loopJson= function(input_string)
+{
+  # Convert the string to a list
+  my_list= fromJSON(input_string)
+  
+  # Print the list
+  for (v in my_list$ano)
+  {
+    print("---")
+    print(v)
+  }
+  
+}
+
+# loopJson('{"ano": [2020, 20201, 2022]}')
+# loopJson('{"ano": ["a1", "a2", "a3"]}')
+
+# loopJson({"ano": [2020, 20201, 2022]}) >> não aceita
+
+# Your input string
+## input_string <- '["a", "b", "c"]'
+
+# Convert the string to a list
+## my_list <- fromJSON(input_string)
+
+# Print the list
+## for (v in my_list)
+##  {
+##  print("---")
+##  print(v)
+## }
+

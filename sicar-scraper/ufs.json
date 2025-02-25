@@ -1,0 +1,325 @@
+{
+    "Acre": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+    ],
+    "Alagoas": [
+         "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Amapá": [
+         "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Amazonas": [
+         "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Bahia": [
+         "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Ceará": [
+       "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Distrito Federal": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Espirito Santo": [
+         "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Goiás": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Maranhão": [
+       "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Mato Grosso": [
+         "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Mato Grosso do Sul": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Minas Gerais": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Pará": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Paraíba": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Paraná": [
+      "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Pernambuco": [
+         "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Piauí": [
+         "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Rio de Janeiro": [
+       "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Rio Grande do Norte": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Rio Grande do Sul": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Rondônia": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Roraima": [
+       "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Santa Catarina": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "São Paulo": [
+       "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Sergipe": [
+        "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ],
+    "Tocantins": [
+      "Perímetros dos imóveis",
+        "Área de Preservação Permanente",
+        "Remanescente de Vegetação Nativa",
+        "Área Consolidada",
+        "Área de Pousio",
+        "Hidrografia",
+        "Uso Restrito",
+        "Servidão Administrativa",
+        "Reserva Legal"
+
+    ]
+}

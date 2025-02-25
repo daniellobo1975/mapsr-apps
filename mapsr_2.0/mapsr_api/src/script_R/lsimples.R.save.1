@@ -1,0 +1,26 @@
+
+# library
+library(jsonlite)
+
+loopJson= function(input)
+{
+
+  print("Starting the correct function...")
+
+  print(input)
+
+  # Convert the string to a list
+   mylist= fromJSON(input)
+  
+  # Print the list
+   for (v in mylist)
+  {
+    print("---")
+    print(v)
+  }
+  
+}
+
+ loopJson(["2000", "2001"]}
+)
+# loopJson("{'ano':['2000',' 2001']}")

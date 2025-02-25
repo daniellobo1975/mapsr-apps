@@ -1,0 +1,21 @@
+{
+  "name": "api-pptr-extractor",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.2",
+    "mongodb": "^3.6.9",
+    "puppeteer": "^13.5.2"
+  }
+}
